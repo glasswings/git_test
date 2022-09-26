@@ -1,2 +1,3 @@
 Hello, world!
 
+It's a fine, beautiful day for version control.
